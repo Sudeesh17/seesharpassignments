@@ -9,7 +9,7 @@ namespace ASSIGNMENT2
     class circle
     {
         double radius;
-        //const double PI = 3.143;
+       
         public void setRadius(double radius)
         {
             this.radius = radius;
